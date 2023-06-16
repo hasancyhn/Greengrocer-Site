@@ -2,7 +2,7 @@
 In this project, the aim is to design a website for an amateur grocery store.
 
 <p align="center">
-  <img src = "ttps://github.com/hasancyhn/Greengrocer-Site/assets/65310402/fbf20a86-0135-4511-ab02-a395eb9f2a16">
+  <img src = "https://github.com/hasancyhn/Greengrocer-Site/assets/65310402/fbf20a86-0135-4511-ab02-a395eb9f2a16">
 </p>
 
 <p align="center">
